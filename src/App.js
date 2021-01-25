@@ -62,7 +62,7 @@ const App = () => {
   }
 
   return (
-    <div style={{ position: 'absolute', top: '40%', right: '45%' }}>
+    <div style={{ position: 'absolute', top: '30%', right: '40%', background: '#FFF', padding: 30, borderRadius: 20, boxShadow: '2px 3px 15px 5px #000000' }}>
       {values.val.map((item, index) =>
         <div key={index} className="d-flex mt-2">
           <input type="number"
