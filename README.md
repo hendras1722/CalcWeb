@@ -9,4 +9,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4.npm start or yarn start
 
 ## Screenshot
-![Kalkulator](https://user-images.githubusercontent.com/57746184/105684981-2d673080-5f28-11eb-97b2-ee473a4c34b4.png)
+![Kalkulator](https://user-images.githubusercontent.com/57746184/105686400-c5b1e500-5f29-11eb-9420-dbaf3172180d.png)
+
