@@ -1,3 +1,16 @@
+.btn-operator{
+  background: #FFF !important;
+  box-shadow: 0px 2px 16px 0px rgba(0,0,0,0.75);
+  border: 1px solid #000aaa;
+  width: 30px;
+}
+.btn-operator:focus{
+  outline: none;
+}
+.btn-operator:active{
+  transform: translateY(2px);
+}
+
 .App {
   text-align: center;
 }
